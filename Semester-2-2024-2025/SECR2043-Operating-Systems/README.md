@@ -8,6 +8,8 @@ Practiced foundational Linux command-line operations as an introduction to worki
 **Artifacts:**
 - [`Lab Assessment 1 (Question) (1).pdf`](./Lab%20Assessment%201%20%28Question%29%20%281%29.pdf)
 
+→ Reflection: [Lab 1 section in `/Reflections/README.md`](../Reflections/README.md#lab-1--basic-linux-commands)
+
 ---
 
 ## 2. Lab Assessment 2: Process Monitoring & Management
@@ -17,6 +19,8 @@ Explored tools and concepts for monitoring and managing running processes — a 
 
 **Artifacts:**
 - [`LAB 2 AIN NURNABILA SEC02.pdf`](./LAB%202%20AIN%20NURNABILA%20SEC02.pdf)
+
+→ Reflection: [Lab 2 section in `/Reflections/README.md`](../Reflections/README.md#lab-2--process-monitoring-and-management)
 
 ---
 
@@ -28,6 +32,8 @@ Practiced file management operations through shell scripting, writing and runnin
 **Artifacts:**
 - [`LAB 3 (AIN NURNABILA).pdf`](./LAB%203%20%28AIN%20NURNABILA%29.pdf)
 
+→ Reflection: [Lab 3 section in `/Reflections/README.md`](../Reflections/README.md#lab-3--file-management)
+
 ---
 
 ## 4. Project Report: CandyCrushSaga (OS Analysis)
@@ -38,4 +44,4 @@ Analyzed the mobile game CandyCrushSaga through an operating systems lens — co
 **Artifacts:**
 - [`PROJECT REPORT (CandyCrushSaga).docx.pdf`](./PROJECT%20REPORT%20%28CandyCrushSaga%29.docx.pdf)
 
-→ Reflection: [`/Reflections/Labs-and-Project-Report.md`](../Reflections/Labs-and-Project-Report.md)
+→ Reflection: [Overall section in `/Reflections/README.md`](../Reflections/README.md#overall--labs--project-report-candycrushsaga)
